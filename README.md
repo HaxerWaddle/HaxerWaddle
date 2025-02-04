@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HaxerWaddle
+- 👀 I’m interested in art and programming
+- 🌱 I’m currently learning Python, Java, C and Javascript
+- 📫 How to reach me: lythienduc21010@gmail.com
+- ⚡ Fun fact: I use github-made README for my profile. Isn't that cool
